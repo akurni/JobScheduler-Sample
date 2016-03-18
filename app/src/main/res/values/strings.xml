@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JobScheduler Sample</string>
+    <string name="constraints">Constraints</string>
+    <string name="connectivity">Connectivity</string>
+    <string name="any">Any</string>
+    <string name="unmetered">Wifi</string>
+    <string name="timing">Timing</string>
+    <string name="delay">Delay</string>
+    <string name="charging_caption">Charging</string>
+    <string name="charging_text">Device is charging.</string>
+    <string name="idle_caption">Idle</string>
+    <string name="idle_text">Requires device in idle mode.</string>
+    <string name="schedule_job">Schedule Job</string>
+    <string name="cancel_all">Cancel all</string>
+</resources>
